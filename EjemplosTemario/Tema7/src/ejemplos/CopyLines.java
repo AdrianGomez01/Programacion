@@ -1,4 +1,4 @@
-package ejemplos;
+package Tema7.src.ejemplos;
 
 import java.io.FileReader;
 import java.io.FileWriter;

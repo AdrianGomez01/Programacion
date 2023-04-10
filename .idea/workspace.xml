@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Reorganizado todo y listo">
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Cambiadas las declaraciones de los paquetes de la carpeta examenes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Receta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/RecetaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/RecetaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Recetario.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Recetario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Jugador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Liga.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Liga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/LigaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/LigaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/TDemarcacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/TDemarcacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/practicaExamenMatrices/src/practicaExamenMatrices/Laberinto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/practicaExamenMatrices/src/practicaExamenMatrices/Laberinto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyBytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyLines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/adrik/Desktop/Pogramación/PROGRAMAS/Programacion/Examenes",
+    "last_opened_file_path": "C:/Users/adrik/Desktop/Nueva carpeta",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -56,6 +48,9 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Examenes" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\EjemplosTemario" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adrik\IdeaProjects\Programacion\EjemplosTemario\Tema7\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681140630055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cambiadas las declaraciones de los paquetes de la carpeta examenes">
+      <created>1681141804337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681141804337</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +121,8 @@
     <MESSAGE value="Reorganizados los proyectos" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Reorganizado todo y listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganizado todo y listo" />
+    <MESSAGE value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
