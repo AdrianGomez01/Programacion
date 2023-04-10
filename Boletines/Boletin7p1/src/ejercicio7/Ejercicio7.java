@@ -1,4 +1,4 @@
-package ejercicio7;
+package Boletin7p1.src.ejercicio7;
 
 import java.io.File;
 import java.io.FilenameFilter;
@@ -9,7 +9,7 @@ public class Ejercicio7 {
 	private static final Scanner sc = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		int opcion = 0;
+		int opcion;
 		do {
 			System.out.println("MENÚ DE OPCIONES");
 			System.out.println("1. Listar directorio");
