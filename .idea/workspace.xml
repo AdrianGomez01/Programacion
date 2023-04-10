@@ -4,164 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Initial commit">
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Reorganizado todo y listo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Biblioteca/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Biblioteca/Biblioteca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Biblioteca/BibliotecaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Biblioteca/BibliotecaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Biblioteca/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Biblioteca/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Biblioteca/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Biblioteca/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/Ej9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/Ej9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin4p4/TryEj7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/Boletin4p4/TryEj7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/Boletin6p1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/Boletin6p1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio1/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio1/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio1/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio1/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio1/EquipoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio1/EquipoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio1/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio1/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio2/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio2/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio2/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio2/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio2/EquipoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio2/EquipoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio2/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio2/Principal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio2/Principal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/IESException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/IESException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/Mensaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/Mensaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio3/TipoEnsennanza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio3/TipoEnsennanza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio6/Caja.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio6/Caja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio6/CajaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio6/CajaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio6/GranAlmacen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio6/GranAlmacen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio6/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio6/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio7/Ingrediente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio7/Ingrediente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio7/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio7/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio7/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio7/Receta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio7/RecetaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio7/RecetaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio7/Recetario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio7/Recetario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/FlotaVehiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/FlotaVehiculos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/Furgoneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/Furgoneta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/Microbus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/Microbus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/TipoCombustible.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/TipoCombustible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/TipoGama.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/TipoGama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/ejercicio8/VehiculoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/ejercicio8/VehiculoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/pruebaLinkedList/LinkedListOrdenadaGenerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/pruebaLinkedList/LinkedListOrdenadaGenerica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin6p1/src/pruebaLinkedList/PruebaLinkedListOrdenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema6/src/pruebaLinkedList/PruebaLinkedListOrdenada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1/Ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin1p2/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema1/boletin1p2/Ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2p2/ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema2/ej1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2p2/ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema2/ej2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2p2/ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema2/ej3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/CirculoMovible.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/CirculoMovible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/Forma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/FormasException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/FormasException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/IAnimable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/IAnimable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/Linea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/Linea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t5/iDibujable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t5/iDibujable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t52/EsportsTournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t52/EsportsTournament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t52/FPSGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t52/FPSGamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t52/Gamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t52/Gamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t52/MOBAGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t52/MOBAGamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t52/SportsGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t52/SportsGamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/ITunes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/ITunes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/MP3Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/MP3Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/MusicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/MusicApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/OfflineMusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/OfflineMusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/OnlineMusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/OnlineMusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin2t53/Spotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin2t53/Spotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin3/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletin3/Ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p1/MaquinaCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p1/MaquinaCafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p1/MiEntradaSalida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p1/MiEntradaSalida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p1/PrincipalCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p1/PrincipalCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p1/PrincipalMaquinaCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p1/PrincipalMaquinaCafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p1/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p1/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p2/MainPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p2/MainPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin4p2/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema4/boletin4p2/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin5p1/AlquilerVehiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin5p1/AlquilerVehiculos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin5p1/MenuAlquilerVehiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin5p1/MenuAlquilerVehiculos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletin5p1/Vehiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/boletin5p1/Vehiculos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/boletinMatrices/ej9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/boletinMatrices/ej9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/Clerigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Clerigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/CreableEstadisticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/CreableEstadisticas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Mago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/MiEntradaSalida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/MiEntradaSalida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/PersonajeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/PersonajeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herencia3/TRaza.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/TRaza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/EdificioOficinas.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/EdificioOficinas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/EdificioOficinas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/EdificioOficinas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/IEdificio.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/IEdificio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/IEdificio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/IEdificio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/IInstalacionDeportiva.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/IInstalacionDeportiva.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/IInstalacionDeportiva.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/IInstalacionDeportiva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/InvalidValueException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/InvalidValueException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/InvalidValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/InvalidValueException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/Polideportivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/Polideportivo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/herenciaEj5/Polideportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herenciaEj5/Polideportivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej18.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/t3Boletin1/ej8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema3/t3Boletin1/ej8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/herenciaExamenAPasado/Fichero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/herenciaExamenAPasado/Fichero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Receta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/RecetaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/RecetaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Recetario.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Recetario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Liga.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Liga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/LigaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/LigaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/TDemarcacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2023/src/TDemarcacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/practicaExamenMatrices/src/practicaExamenMatrices/Laberinto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/practicaExamenMatrices/src/practicaExamenMatrices/Laberinto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +48,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "Console"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -202,6 +57,26 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\EjemplosTemario" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Laberinto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicaExamenMatrices.src.practicaExamenMatrices.Laberinto" />
+      <module name="Programacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicaExamenMatrices.src.practicaExamenMatrices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Laberinto" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -219,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681139731885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reorganizado todo y listo">
+      <created>1681140630055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681140630055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +118,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reorganizados los proyectos" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Reorganizado todo y listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganizado todo y listo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

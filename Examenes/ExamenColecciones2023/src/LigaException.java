@@ -1,3 +1,4 @@
+package ExamenColecciones2023.src;
 
 public class LigaException extends Exception {
 

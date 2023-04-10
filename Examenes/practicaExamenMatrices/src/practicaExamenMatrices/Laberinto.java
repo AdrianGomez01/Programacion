@@ -1,4 +1,4 @@
-package practicaExamenMatrices;
+package practicaExamenMatrices.src.practicaExamenMatrices;
 
 import java.util.Scanner;
 

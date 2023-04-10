@@ -1,4 +1,4 @@
-package ejercicio1;
+package EjerciciosColecciones.src.ejercicio1;
 
 
 public class Ingrediente {

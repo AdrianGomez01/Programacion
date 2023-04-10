@@ -1,4 +1,4 @@
-package ejercicio1;
+package EjerciciosColecciones.src.ejercicio1;
 
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -40,7 +40,8 @@ public class Receta {
 	}
 	
 	public boolean necesitaIngrediente(String nombreIngrediente) {
-		
+
+		return false;
 	}
 	
 	public void borrarIngrediente(Ingrediente ingredienteABorrar) throws RecetaException{

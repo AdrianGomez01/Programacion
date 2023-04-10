@@ -1,4 +1,4 @@
-package ejercicio1;
+package EjerciciosColecciones.src.ejercicio1;
 
 import java.util.HashMap;
 
@@ -17,10 +17,12 @@ public class Recetario {
 	}
 	
 	public String listadoRecetasOrdenadasAlfabeticamente() throws RecetaException {
-		
+
+		return null;
 	}
 	
 	public String listadoRecetasConIngredienteOrdenadasPorTiempoPreparacion(String ingrediente) throws RecetaException{
-		
+
+		return ingrediente;
 	}
 }
