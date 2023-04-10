@@ -2,7 +2,7 @@ package herenciaExamenAPasado;
 
 import java.time.LocalDate;
 
-import herencia3.PersonajeException;
+import Tema5.herencia3.PersonajeException;
 
 public abstract class Fichero {
 
