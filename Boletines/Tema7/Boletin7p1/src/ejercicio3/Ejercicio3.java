@@ -1,4 +1,4 @@
-package ejercicio3;
+package Tema7.Boletin7p1.src.ejercicio3;
 
 import java.io.BufferedReader;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package Boletin7p1.src.ejercicio6;
+package Tema7.Boletin7p1.src.ejercicio6;
 
 import java.io.File;
 import java.io.IOException;
