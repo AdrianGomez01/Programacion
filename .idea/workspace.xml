@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Cambiadas las declaraciones de los paquetes de la carpeta examenes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/Boletin7p1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio7/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p2/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosTemario/EjemplosTemario.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examenes/Examenes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio8/Ejercicio8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/Boletin7p1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Boletines.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/entrada1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/entrada1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/indice trabajo Blockchain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/indice trabajo Blockchain.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/libro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/libro.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/messi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/messi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/que/Captura de pantalla_20221025_103119.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/que/Captura de pantalla_20221025_103119.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/que/apunte ej3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/que/apunte ej3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/tal/bart.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/bart.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/tal/messi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/messi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/tal/tal/Actividad 2.1 (Ventas Supermercado versión 1.0).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/tal/Actividad 2.1 (Ventas Supermercado versión 1.0).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/hola/tal/tal/BD actividad 2.1 ventas supermercado Adrian Gomez 1DAM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/tal/BD actividad 2.1 ventas supermercado Adrian Gomez 1DAM.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/salida1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salida1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/salidaej3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salidaej3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio1/CuentaLineas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio1/CuentaLineas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio2/LineasAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio2/LineasAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio4/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio5/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio5/UserDataCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio5/UserDataCollector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio6/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletin7p1/src/ejercicio7/Ejercicio7.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/adrik/Desktop/Nueva carpeta",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adrik/Desktop/Nueva carpeta&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Examenes" />
