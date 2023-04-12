@@ -4,35 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Cambiadas las declaraciones de los paquetes de la carpeta examenes">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="anhadido ejercicio 9">
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/alumnos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/entrada.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/extra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/salida.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Boletines.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Boletines.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/Boletin7p1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Tema7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/entrada1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/entrada1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/indice trabajo Blockchain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/matriculas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/libro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/matriculascorrectas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/messi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/que/Captura de pantalla_20221025_103119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/que/apunte ej3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/bart.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/messi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/tal/Actividad 2.1 (Ventas Supermercado versión 1.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/hola/tal/tal/BD actividad 2.1 ventas supermercado Adrian Gomez 1DAM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salida1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/salida1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salidaej3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/salidaej3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio1/CuentaLineas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio1/CuentaLineas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio2/LineasAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio2/LineasAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio4/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio5/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio5/UserDataCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio5/UserDataCollector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio6/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio7/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio7/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/src/ejercicio8/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio8/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p2/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p2/Ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +30,7 @@
         <option value="Adrian Gomez &lt;adrian.gomez.garlito@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/IdeaProjects/Programacion" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OEnPFT56a6hwZuT1M6g4R41rHB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/adrik/IdeaProjects",
+    "last_opened_file_path": "C:/Users/adrik/IdeaProjects/Programacion",
     "onboarding.tips.debug.path": "C:/Users/adrik/Desktop/Pogramación/PROGRAMAS/Programacion/Boletines/Tema7/Boletin7p1/src/ejercicio8/Ejercicio8.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -117,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681141804337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="anhadido ejercicio 9">
+      <created>1681284661197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681284661197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +121,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Reorganizado todo y listo" />
     <MESSAGE value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
+    <MESSAGE value="anhadido ejercicio 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="anhadido ejercicio 9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
