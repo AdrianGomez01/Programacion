@@ -1,4 +1,4 @@
-package tema7;
+package Tema7.src.tema7;
 
 import java.io.File;
 

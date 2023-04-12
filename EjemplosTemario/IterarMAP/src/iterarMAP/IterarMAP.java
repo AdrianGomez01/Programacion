@@ -1,4 +1,4 @@
-package iterarMAP;
+package IterarMAP.src.iterarMAP;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package examenHerenciaEInterfaces;
+package ExamenHerenciaEInterfaces.src.examenHerenciaEInterfaces;
 
 public class InstrumentoMusical extends JugueteMadera {
 

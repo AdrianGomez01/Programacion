@@ -1,3 +1,5 @@
+package ExamenColecciones2022.src;
+
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;

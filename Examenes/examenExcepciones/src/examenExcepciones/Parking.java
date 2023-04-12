@@ -1,4 +1,4 @@
-package examenExcepciones;
+package examenExcepciones.src.examenExcepciones;
 
 public class Parking {
 

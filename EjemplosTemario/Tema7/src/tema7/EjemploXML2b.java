@@ -1,4 +1,4 @@
-package tema7;
+package Tema7.src.tema7;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

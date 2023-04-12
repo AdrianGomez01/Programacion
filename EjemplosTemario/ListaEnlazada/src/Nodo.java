@@ -1,3 +1,5 @@
+package ListaEnlazada.src;
+
 public class Nodo<E> {
     /*
     Siguiente y anterior son apuntadores a los respectivos nodos. Si contienen valor null

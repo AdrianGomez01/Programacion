@@ -1,3 +1,4 @@
+package ExamenColecciones2022.src;
 
 public abstract class Cromo {
 	private int id;

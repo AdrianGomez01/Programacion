@@ -1,10 +1,10 @@
-package Tema7.Boletin7p1.src.ejercicio8;
+package Boletin7p1.ejercicio8;
 
 import java.io.File;
 import java.util.Scanner;
 
 public class Ejercicio8 {
-    private static final String PATRON = ".*abc.*";
+    private static final String PATRON = "^(\\p{L}{2,})\\s([a-zA-Z]{2,})\\s(\\p{L}{2,})\\s(0?[1-9]|[1-9][0-9])$";
     private static final Scanner teclado = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -17,7 +17,6 @@ public class Ejercicio8 {
 
         if (fichero != null && fichero.matches(PATRON)) {
             System.out.println("Sus datos son:");
-            System.lineSeparator();
             System.out.println(fichero);
         } else {
             System.out.println("ERROR, El resultado es nulo o no encaja");

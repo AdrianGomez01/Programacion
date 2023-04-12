@@ -1,4 +1,4 @@
-package ejercicio1;
+package ExamenColecciones2021.src.ejercicio1;
 
 import java.util.ArrayList;
 import java.util.HashSet;

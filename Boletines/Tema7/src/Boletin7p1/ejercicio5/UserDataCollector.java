@@ -1,4 +1,4 @@
-package Tema7.Boletin7p1.src.ejercicio5;
+package Boletin7p1.ejercicio5;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -99,7 +99,7 @@ public class UserDataCollector {
 	}
 
 	/**
-	 * M�todo que muestra un mensaje y simplemente espera que el usuario pulse enter
+	 * Metodo que muestra un mensaje y simplemente espera que el usuario pulse enter
 	 * 
 	 * @param mensaje El mensaje que se mostrar�
 	 */

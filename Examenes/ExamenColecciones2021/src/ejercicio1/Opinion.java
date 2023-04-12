@@ -1,4 +1,4 @@
-package ejercicio1;
+package ExamenColecciones2021.src.ejercicio1;
 
 public class Opinion {
 	private int valoracion;

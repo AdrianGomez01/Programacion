@@ -1,4 +1,4 @@
-package ficherosDeTexto;
+package Tema7.src.EjemploFicheroTexto.src.ficherosDeTexto;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;

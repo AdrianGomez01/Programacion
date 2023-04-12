@@ -1,4 +1,4 @@
-package ejercicio2;
+package ExamenColecciones2021.src.ejercicio2;
 
 import java.util.Iterator;
 import java.util.LinkedList;

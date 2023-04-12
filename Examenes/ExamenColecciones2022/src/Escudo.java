@@ -1,3 +1,4 @@
+package ExamenColecciones2022.src;
 
 public class Escudo extends Cromo {
 	private int fundacion, numeroJugadores;

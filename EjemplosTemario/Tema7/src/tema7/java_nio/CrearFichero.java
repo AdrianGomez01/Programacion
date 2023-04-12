@@ -1,4 +1,4 @@
-package tema7.java_nio;
+package Tema7.src.tema7.java_nio;
 
 import java.io.IOException;
 import java.nio.file.FileAlreadyExistsException;

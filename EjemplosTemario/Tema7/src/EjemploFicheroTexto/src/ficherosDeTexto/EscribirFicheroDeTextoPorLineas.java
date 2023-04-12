@@ -1,4 +1,4 @@
-package ficherosDeTexto;
+package Tema7.src.EjemploFicheroTexto.src.ficherosDeTexto;
 
 import java.io.FileWriter;
 import java.io.IOException;

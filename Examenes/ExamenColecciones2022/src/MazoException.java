@@ -1,4 +1,4 @@
-
+package ExamenColecciones2022.src;
 
 public class MazoException extends Exception {
 

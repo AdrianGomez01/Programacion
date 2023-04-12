@@ -1,4 +1,4 @@
-package examenHerenciaEInterfaces;
+package ExamenHerenciaEInterfaces.src.examenHerenciaEInterfaces;
 
 public interface IApilable {
 

@@ -1,4 +1,4 @@
-package Tema7.Boletin7p1.src.ejercicio7;
+package Boletin7p1.ejercicio7;
 
 import java.io.File;
 import java.io.FilenameFilter;
