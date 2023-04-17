@@ -18,4 +18,10 @@
     <modelo>Vitara</modelo>
     <cilindrada>1.9</cilindrada>
   </coche>
+
+  <moto id="4">
+    <marca>Yamaha</marca>
+    <modelo>pinga</modelo>
+    <cilindrada>1.7</cilindrada>
+  </moto>
 </concesionario>

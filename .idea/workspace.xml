@@ -4,13 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="anhadido ejercicio 9">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/alumnos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/ejercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/entrada.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/extra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/salida.txt" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="anhadido ejercicio extra">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjemplosTemario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/EjerciciosColecciones.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/EjerciciosColecciones.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Receta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/RecetaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/RecetaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/EjerciciosColecciones/src/ejercicio1/Recetario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Recetario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/IterarMAP/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/IterarMAP/IterarMAP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/IterarMAP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/IterarMAP/src/iterarMAP/IterarMAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/src/iterarMAP/IterarMAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/ListaEnlazada/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/ListaEnlazada/ListaEnlazada.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/ListaEnlazada.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/ListaEnlazada/src/ListaEnlazada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/src/ListaEnlazada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/ListaEnlazada/src/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/src/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/Tema7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/Tema7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/characteroutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/characteroutput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/outagain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/outagain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploClaseFile/hola.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/hola.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploClaseFile/src/EjemploClaseFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/EjemploClaseFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploClaseFile/src/EjemploClaseFileDirectorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/EjemploClaseFileDirectorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploClaseFile/src/VerContenidoDeUnaCarpeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/VerContenidoDeUnaCarpeta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploClaseFile/src/hola.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/hola.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/EscribirFicheroDeTextoPorLineas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/EscribirFicheroDeTextoPorLineas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/MostrarFicheroTextoPorLineas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/MostrarFicheroTextoPorLineas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ExpresionesRegulares/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ExpresionesRegulares/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ExpresionesRegulares/src/SepararParteCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ExpresionesRegulares/src/SepararParteCadena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyBytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/ejemplos/CopyLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/outagain.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/outagain.txt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML2b.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML2b.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/EjemploXML6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/concesionario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionario.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/concesionario2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionario2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/concesionarioModificado.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionarioModificado.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/CrearFichero.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/CrearFichero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/CrearFichero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/CrearFichero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/DeFicheroACadena.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DeFicheroACadena.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/DeFicheroACadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DeFicheroACadena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/DirectorySize.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DirectorySize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/DirectorySize.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DirectorySize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/EscribirAFichero.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/EscribirAFichero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/EscribirAFichero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/EscribirAFichero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/LecturaLineaALinea.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/LecturaLineaALinea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/LecturaLineaALinea2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/LecturaLineaALinea2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/fichero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/fichero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/tema7/java_nio/ficheroAEscribir.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/ficheroAEscribir.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/src/xanadu.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/xanadu.txt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/Tema7/xanadu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/Tema7/xanadu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/pruebas/InterfazA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/pruebas/InterfazA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/pruebas/InterfazB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/pruebas/InterfazB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/pruebas/PruebaIntMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaIntMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/pruebas/PruebaInterfaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaInterfaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjemplosTemario/pruebas/PruebaMetodocorreo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaMetodocorreo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +111,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "C:/Users/adrik/IdeaProjects/Programacion",
-    "onboarding.tips.debug.path": "C:/Users/adrik/Desktop/Pogramación/PROGRAMAS/Programacion/Boletines/Tema7/Boletin7p1/src/ejercicio8/Ejercicio8.java",
+    "onboarding.tips.debug.path": "C:/Users/adrik/IdeaProjects/Programacion/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -102,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681284661197</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="anhadido ejercicio extra">
+      <created>1681290645098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681290645098</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +194,19 @@
     <MESSAGE value="Reorganizado todo y listo" />
     <MESSAGE value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
     <MESSAGE value="anhadido ejercicio 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="anhadido ejercicio 9" />
+    <MESSAGE value="anhadido ejercicio extra" />
+    <option name="LAST_COMMIT_MESSAGE" value="anhadido ejercicio extra" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML3.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

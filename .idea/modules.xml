@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/IdeaProjects/Programacion/Boletines/Boletines.iml" filepath="$USER_HOME$/IdeaProjects/Programacion/Boletines/Boletines.iml" />
-      <module fileurl="file://$USER_HOME$/IdeaProjects/Programacion/EjemplosTemario/EjemplosTemario.iml" filepath="$USER_HOME$/IdeaProjects/Programacion/EjemplosTemario/EjemplosTemario.iml" />
-      <module fileurl="file://$USER_HOME$/IdeaProjects/Programacion/Examenes/Examenes.iml" filepath="$USER_HOME$/IdeaProjects/Programacion/Examenes/Examenes.iml" />
-      <module fileurl="file://$USER_HOME$/IdeaProjects/Programacion/Programacion.iml" filepath="$USER_HOME$/IdeaProjects/Programacion/Programacion.iml" />
-      <module fileurl="file://$USER_HOME$/IdeaProjects/Programacion/Boletines/Tema7/Tema7.iml" filepath="$USER_HOME$/IdeaProjects/Programacion/Boletines/Tema7/Tema7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletines/Boletines.iml" filepath="$PROJECT_DIR$/Boletines/Boletines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejemplos/Ejemplos.iml" filepath="$PROJECT_DIR$/Ejemplos/Ejemplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examenes/Examenes.iml" filepath="$PROJECT_DIR$/Examenes/Examenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion.iml" filepath="$PROJECT_DIR$/Programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletines/Tema7/Tema7.iml" filepath="$PROJECT_DIR$/Boletines/Tema7/Tema7.iml" />
     </modules>
   </component>
 </project>
