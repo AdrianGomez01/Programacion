@@ -1,4 +1,4 @@
-package Boletin7p2;
+package Tema7.Boletin7p2;
 
 import java.util.Scanner;
 

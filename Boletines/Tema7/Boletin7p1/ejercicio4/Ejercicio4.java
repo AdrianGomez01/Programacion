@@ -1,4 +1,4 @@
-package Boletin7p1.ejercicio4;
+package Tema7.Boletin7p1.ejercicio4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

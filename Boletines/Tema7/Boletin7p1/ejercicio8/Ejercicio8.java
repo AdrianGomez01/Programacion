@@ -1,4 +1,4 @@
-package Boletin7p1.ejercicio8;
+package Tema7.Boletin7p1.ejercicio8;
 
 import java.io.File;
 import java.util.Scanner;

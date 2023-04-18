@@ -2,7 +2,6 @@ package ExamenColecciones2021.src.ejercicio1;
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class Pelicula {
 	private String titulo;

@@ -1,9 +1,9 @@
-package Boletin7p1.ejercicio6;
+package Tema7.Boletin7p1.ejercicio6;
 
 import java.io.File;
 import java.io.IOException;
 
-import Boletin7p1.ejercicio5.UserDataCollector;
+import Tema7.Boletin7p1.ejercicio5.UserDataCollector;
 
 public class Ejercicio6 {
 

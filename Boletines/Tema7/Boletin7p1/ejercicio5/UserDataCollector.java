@@ -1,4 +1,4 @@
-package Boletin7p1.ejercicio5;
+package Tema7.Boletin7p1.ejercicio5;
 
 import java.util.Arrays;
 import java.util.Scanner;

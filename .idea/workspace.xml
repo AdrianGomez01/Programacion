@@ -4,59 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="anhadido ejercicio extra">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/src/boletin7p3/ejercicio1/Persona.java" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="añadido ejemplos del tema 7 de bermudo">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/Tema7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/characteroutput.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/outagain.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/hola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/EjemploClaseFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/EjemploClaseFileDirectorio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/VerContenidoDeUnaCarpeta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploClaseFile/src/hola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/EscribirFicheroDeTextoPorLineas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/EjemploFicheroTexto/src/ficherosDeTexto/MostrarFicheroTextoPorLineas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ExpresionesRegulares/src/Principal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ExpresionesRegulares/src/SepararParteCadena.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyBytes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/ejemplos/CopyLines.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/outagain.txt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML2b.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/EjemploXML6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionario.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionario2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/concesionarioModificado.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/CrearFichero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/CrearFichero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DeFicheroACadena.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DeFicheroACadena.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DirectorySize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/DirectorySize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/EscribirAFichero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/EscribirAFichero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/LecturaLineaALinea2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/fichero.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/tema7/java_nio/ficheroAEscribir.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/src/xanadu.txt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/src/Tema7/xanadu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Boletines.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema5/herencia3/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Tema7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio1/CuentaLineas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio1/CuentaLineas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/alumnos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio11/alumnos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio11/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio11/ejercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio2/LineasAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio2/LineasAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio3/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio4/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio5/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio5/UserDataCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio5/UserDataCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio6/Ejercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio7/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio7/Ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio8/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio8/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio9/ejercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/matriculas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio9/matriculas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicio9/matriculascorrectas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicio9/matriculascorrectas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/entrada.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicioExtra/entrada.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicioExtra/extra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/ejercicioExtra/salida.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/ejercicioExtra/salida.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/entrada1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/entrada1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/salida1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salida1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p1/salidaej3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p1/salidaej3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/Boletin7p2/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p2/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/src/boletin7p3/ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/ejercicio1/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/EjerciciosColecciones.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/EjerciciosColecciones.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/src/ejercicio1/Ingrediente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Receta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/src/ejercicio1/Receta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/RecetaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/src/ejercicio1/RecetaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/EjerciciosColecciones/src/ejercicio1/Recetario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/EjerciciosColecciones/src/ejercicio1/Recetario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/IterarMAP/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/IterarMAP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/IterarMAP/IterarMAP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/IterarMAP/src/iterarMAP/IterarMAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/IterarMAP/src/iterarMAP/IterarMAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/ListaEnlazada/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/ListaEnlazada.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/ListaEnlazada/ListaEnlazada.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/src/ListaEnlazada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/ListaEnlazada/src/ListaEnlazada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/ListaEnlazada/src/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/ListaEnlazada/src/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/pruebas/InterfazA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/pruebas/InterfazA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/pruebas/InterfazB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/pruebas/InterfazB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaIntMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/pruebas/PruebaIntMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaInterfaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/pruebas/PruebaInterfaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/src/pruebas/PruebaMetodocorreo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/pruebas/PruebaMetodocorreo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/tema7/EjemploXML6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/tema7/EjemploXML6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplos/tema7/concesionarioEjemplo3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/tema7/concesionarioEjemplo3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/ExamenColecciones2021/src/ejercicio1/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenColecciones2021/src/ejercicio1/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examenes/Examenes.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Programacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programacion.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +104,7 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adrik\IdeaProjects\Programacion\Boletiness" />
       <recent name="C:\Users\adrik\IdeaProjects\Programacion\Ejemplos" />
       <recent name="C:\Users\adrik\IdeaProjects" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines\Tema7\src\Boletin7p1" />
@@ -157,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681290645098</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="añadido ejemplos del tema 7 de bermudo">
+      <created>1681809078677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681809078677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +183,8 @@
     <MESSAGE value="Cambiadas las declaraciones de los paquetes de la carpeta examenes" />
     <MESSAGE value="anhadido ejercicio 9" />
     <MESSAGE value="anhadido ejercicio extra" />
-    <option name="LAST_COMMIT_MESSAGE" value="anhadido ejercicio extra" />
+    <MESSAGE value="añadido ejemplos del tema 7 de bermudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadido ejemplos del tema 7 de bermudo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

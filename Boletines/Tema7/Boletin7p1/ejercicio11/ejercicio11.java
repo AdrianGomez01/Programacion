@@ -1,4 +1,4 @@
-package Boletin7p1.ejercicio11;
+package Tema7.Boletin7p1.ejercicio11;
 
 import java.io.*;
 import java.util.regex.Matcher;

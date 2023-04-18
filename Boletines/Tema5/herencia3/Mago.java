@@ -60,7 +60,7 @@ public class Mago extends Personaje {
 					try {
 						p.setActualPV(p.getActualPV() - SPELL_DAMAGE);
 					} catch (PersonajeException e) {
-						p.setActualPV(Personaje.PV_MIN);
+						p.setActualPV(PV_MIN);
 					}
 					encontrado = true;
 					break;

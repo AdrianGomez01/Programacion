@@ -1,4 +1,4 @@
-package boletin7p3.ejercicio1;
+package Tema7.ejercicio1;
 
 public class Persona {
 

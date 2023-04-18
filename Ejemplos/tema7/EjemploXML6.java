@@ -1,6 +1,9 @@
 package tema7;
 
-import java.io.File;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -10,12 +13,7 @@ import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
-
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.NamedNodeMap;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
+import java.io.File;
 
 /**
  * En esta clase vamos a mostrar un ejemplo completo.
@@ -43,7 +41,7 @@ public class EjemploXML6 {
 			// 3º Procesamos el documento (almacenado en un archivo) y lo convertimos en un
 			// árbol DOM.
 
-			Document documento = db.parse("./src/tema7/concesionario.xml");
+			Document documento = db.parse("Ejemplos/tema7/concesionarioEjemplo3.xml");
 
 			Element e = documento.getDocumentElement();
 			// Normaliza los elementos del documento
@@ -122,7 +120,7 @@ public class EjemploXML6 {
 			// 1º Creamos una instancia de la clase File para acceder al archivo donde
 			// guardaremos el XML.
 
-			File f = new File("./src/tema7/concesionarioModificado.xml");
+			File f = new File("./src/tema7/concesionarioModificado2.xml");
 
 			// 2º Creamos una nueva instancia del transformador a través de la fábrica de
 			// transformadores.
