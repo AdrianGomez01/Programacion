@@ -1,0 +1,14 @@
+Index: Boletines/Boletin7p1/src/ejercicio2/LineasAString.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ejercicio2;\r\n\r\nimport java.io.BufferedReader;\r\nimport java.io.FileReader;\r\nimport java.io.IOException;\r\n\r\npublic class LineasAString {\r\n\r\n\t/**\r\n\t * Para pasar todas las lineas del archivo a una sola linea, las vamos a meter\r\n\t * en un SB, anhadienod tambien un espacio para mejor visivilidad y luego\r\n\t * simplemente mostramos el SB por pantalla.\r\n\t * \r\n\t * @param args\r\n\t */\r\n\tpublic static void main(String[] args) {\r\n\t\tStringBuilder textoSeguido = new StringBuilder();\r\n\t\tBufferedReader inputStream = null;\r\n\t\ttry {\r\n\t\t\tinputStream = new BufferedReader(new FileReader(\"entrada1.txt\"));\r\n\t\t\tString l;\r\n\t\t\twhile ((l = inputStream.readLine()) != null) {\r\n\t\t\t\ttextoSeguido.append(l).append(\" \");\r\n\t\t\t}\r\n\t\t} catch (IOException e) {\r\n\t\t\tSystem.out.println(\"Error: \" + e.getMessage());\r\n\t\t} finally {\r\n\t\t\ttry {\r\n\t\t\t\tif (inputStream != null) {\r\n\t\t\t\t\tinputStream.close();\r\n\t\t\t\t}\r\n\t\t\t\tSystem.out.println(textoSeguido);\r\n\t\t\t} catch (IOException e) {\r\n\t\t\t\tSystem.out.println(\"Error: \" + e.getMessage());\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}\r\n
+===================================================================
+diff --git a/Boletines/Boletin7p1/src/ejercicio2/LineasAString.java b/Boletines/Boletin7p1/src/ejercicio2/LineasAString.java
+--- a/Boletines/Boletin7p1/src/ejercicio2/LineasAString.java	
++++ b/Boletines/Boletin7p1/src/ejercicio2/LineasAString.java	
+@@ -1,4 +1,4 @@
+-package ejercicio2;
++package Boletin7p1.src.ejercicio2;
+ 
+ import java.io.BufferedReader;
+ import java.io.FileReader;
