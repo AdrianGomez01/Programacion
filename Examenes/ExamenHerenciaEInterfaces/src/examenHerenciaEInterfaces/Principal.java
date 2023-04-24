@@ -1,12 +1,13 @@
 package ExamenHerenciaEInterfaces.src.examenHerenciaEInterfaces;
 
-import utils.UserDataCollector;
 
 public class Principal {
 
 	public static final int MAX_JUGUETES = 10;
 	public static Juguete[] juguetes = new Juguete[MAX_JUGUETES];
 	public static int numJuguetes = 0;
+/*
+
 
 	public static void main(String[] args) throws JuguetesException {
 		boolean salir = false;
@@ -25,7 +26,8 @@ public class Principal {
 		addJuguete(j5);
 		addJuguete(j6);
 		addJuguete(j7);
-
+*/
+	/*
 		do {
 			System.out.println(menu());
 			int opcion = UserDataCollector.getEnteroMinMax("Selecciona una opción", 1, 7);
@@ -117,7 +119,7 @@ public class Principal {
 		System.out.println("Adiós");
 
 	}
-
+*/
 	/**
 	 * El método addJuguete nos va a anhadir al array de juguetes el juguete que le
 	 * indiquemos, comprobando que no supere el máximo y sumandole en 1 el numero de

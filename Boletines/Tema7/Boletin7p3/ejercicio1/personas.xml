@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personas>
+    <persona id="29640128k">
+        <nombre>miguel</nombre>
+        <telefono>697434567</telefono>
+        <fechaNacimiento>02/11/2003</fechaNacimiento>
+    </persona>
+    <persona id="29693128k">
+        <nombre>jose</nombre>
+        <telefono>696544567</telefono>
+        <fechaNacimiento>23/06/2004</fechaNacimiento>
+    </persona>
+    <persona id="23840128k">
+        <nombre>ana</nombre>
+        <telefono>690614567</telefono>
+        <fechaNacimiento>01/12/1998</fechaNacimiento>
+    </persona>
+    <persona id="26947528k">
+        <nombre>paco</nombre>
+        <telefono>697496657</telefono>
+        <fechaNacimiento>20/04/2022</fechaNacimiento>
+    </persona>
+</personas>
