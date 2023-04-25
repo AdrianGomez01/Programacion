@@ -13,14 +13,16 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.io.IOException;
 
-public class ej3 {
+public class Ej3 {
     public static void main(String[] args) {
 
         File f = new File("Boletines/Tema7/Boletin7p3/ejercicio3/desayuno.xml");
 
         try {
+            //Creamos el objeto documento
             Document documento = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(f);
 
+            //Obtenemos el nodo raíz
             NodeList comida = documento.getElementsByTagName("food");
 
             //Mostramos los platos de menos de 5€

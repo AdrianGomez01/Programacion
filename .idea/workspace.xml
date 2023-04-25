@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="anhadido ejercicio extra">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio1/personas.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio2/ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio2/web1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/desayuno.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/ej3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/nuevoDesayuno.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_04_2023_14_45_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_04_2023_14_45__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_04_2023_14_45__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_04_2023_14_45__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_04_2023_10_00__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_04_2023_10_00__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/BorrarPlato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/desayunoSaludable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_04_2023_10_00_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_04_2023_10_00__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio1/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/ejercicio1/PrincipalPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio1/PrincipalPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/ejercicio1/personas.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examenes/ExamenHerenciaEInterfaces/src/examenHerenciaEInterfaces/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examenes/ExamenHerenciaEInterfaces/src/examenHerenciaEInterfaces/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Ej3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/adrik/IdeaProjects/Programacion",
-    "onboarding.tips.debug.path": "C:/Users/adrik/IdeaProjects/Programacion/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adrik/IdeaProjects/Programacion&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/adrik/IdeaProjects/Programacion/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Examenes" />
@@ -77,8 +68,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.ej3" />
+    <configuration name="Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.Ej3" />
       <module name="Programacion" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ej3" />
+        <item itemvalue="Application.Ej3" />
       </list>
     </recent_temporary>
   </component>
