@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<breakfast_menu>
+    	
+    <food>
+        		
+        <name>Tostada con tomate y café</name>
+        		
+        <price>1,70€</price>
+        		
+        <description>
+			Tostada de pan de antequera con el mejor café
+		</description>
+        		
+        <calories>450</calories>
+        	
+    </food>
+    	
+	
+	
+	
+
+</breakfast_menu>
