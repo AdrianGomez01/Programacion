@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="ejercicio quijote">
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="modificado quijote2 para añadir souts">
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines\Tema7\src\Boletin7p1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quijote2">
+  <component name="RunManager" selected="Application.Tema7.boletin7p4.Ej3">
     <configuration name="BorrarPlato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.BorrarPlato" />
       <module name="Programacion" />
@@ -116,8 +117,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tema7.boletin7p4.Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema7.boletin7p4.Ej3" />
+      <module name="Programacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema7.boletin7p4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tema7.boletin7p4.Ej3" />
         <item itemvalue="Application.Quijote2" />
         <item itemvalue="Application.Ej2" />
         <item itemvalue="Application.BorrarPlato" />
@@ -190,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682416192778</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modificado quijote2 para añadir souts">
+      <created>1682525771629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525771629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +236,8 @@
     <MESSAGE value="añadido ejemplos del tema 7 de bermudo" />
     <MESSAGE value="reorganizado en carpetas de sources" />
     <MESSAGE value="ejercicio borrar plato boletin 7.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio borrar plato boletin 7.3" />
+    <MESSAGE value="modificado quijote2 para añadir souts" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificado quijote2 para añadir souts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
