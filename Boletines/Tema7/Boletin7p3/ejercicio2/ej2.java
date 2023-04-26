@@ -14,7 +14,7 @@ public class ej2 {
 
     public static void main(String[] args) {
 
-        File f = new File("Boletines/Tema7/ejercicio2/web1.html");
+        File f = new File("Boletines/Tema7/ejercicio2.txt/web1.html");
 
         try {
             //Creamos el documento y transformamos con parse. parse tambien lo lee.
