@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="Correcicones ejercicio 3 boletin 7p3">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/QuijoteNuevo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/quijote.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/ejercicio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/ejercicio2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/log.txt" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="ejercicio quijote">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio2/ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio2/ej2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/Boletin7p3/ejercicio3/Quijote2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines\Tema7\src\Boletin7p1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ej2">
+  <component name="RunManager" selected="Application.Quijote2">
     <configuration name="BorrarPlato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.BorrarPlato" />
       <module name="Programacion" />
@@ -128,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ej2" />
         <item itemvalue="Application.Quijote2" />
+        <item itemvalue="Application.Ej2" />
         <item itemvalue="Application.BorrarPlato" />
         <item itemvalue="Application.Ej3" />
       </list>

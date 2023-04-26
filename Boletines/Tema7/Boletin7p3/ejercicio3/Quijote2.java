@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Quijote2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         int contador = 0;
         Pattern patron = Pattern.compile("([Rr][Aa][Zz][ÓóOo][Nn])");
@@ -28,6 +28,11 @@ public class Quijote2 {
             System.err.println("No se ha podido encontrar el archivo: " + e);
         }
 
+
+        System.out.println("Se han encontrado " + contarTildes() + " tildes.");
+        System.out.println("En el documento hay un total de " + cuentaPalabras() + " palabras.");
+
+        quincePalabras(15);
 
     }
 
@@ -82,12 +87,12 @@ public class Quijote2 {
             Pattern p = Pattern.compile("([^\\.]+)");
             Pattern p2 = Pattern.compile("([^\\p{Z}]+)");
 
-            while ((linea = lector.readLine())!=null){
+            while ((linea = lector.readLine()) != null) {
                 Matcher m = p.matcher(linea);
-                while (m.find()){
+                while (m.find()) {
                     String frase = m.group();
-                    Matcher m2= p2.matcher(frase);
-                    if (m2.results().count()<i){
+                    Matcher m2 = p2.matcher(frase);
+                    if (m2.results().count() < i) {
                         System.out.println(frase);
                     }
                 }
@@ -97,20 +102,20 @@ public class Quijote2 {
         }
     }
 
-    private static void cuentaPalabras(){
-
+    private static int cuentaPalabras() {
+        int contadorPalabras = 0;
         try (BufferedReader lector = new BufferedReader(new FileReader("Boletines/Tema7/Boletin7p3/ejercicio3/quijote.txt"))) {
             String linea;
             Pattern p = Pattern.compile("\\p{L}+");
-            int contadorPalabras=0;
 
-            while ((linea = lector.readLine())!=null){
+            while ((linea = lector.readLine()) != null) {
                 contadorPalabras += p.matcher(linea).results().count();
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
 
+        return contadorPalabras;
     }
 
 
