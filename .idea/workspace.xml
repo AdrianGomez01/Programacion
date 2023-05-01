@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="modificado quijote2 para añadir souts">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4c.java" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="empezado el boletin 7p4 ejercicios 3 y 4 provisional">
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej5c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej6c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej7c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej8c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej9c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682525771629</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="empezado el boletin 7p4 ejercicios 3 y 4 provisional">
+      <created>1682528578915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682528578915</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +248,8 @@
     <MESSAGE value="reorganizado en carpetas de sources" />
     <MESSAGE value="ejercicio borrar plato boletin 7.3" />
     <MESSAGE value="modificado quijote2 para añadir souts" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificado quijote2 para añadir souts" />
+    <MESSAGE value="empezado el boletin 7p4 ejercicios 3 y 4 provisional" />
+    <option name="LAST_COMMIT_MESSAGE" value="empezado el boletin 7p4 ejercicios 3 y 4 provisional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

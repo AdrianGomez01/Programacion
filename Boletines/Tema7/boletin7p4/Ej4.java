@@ -1,11 +1,13 @@
 package Tema7.boletin7p4;
 
-import java.io.*;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Ej4 {
 
-    public static Scanner sc = new Scanner(System.in);
+    //private static final
 
     public static void main(String[] args) throws IOException {
 
