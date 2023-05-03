@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="empezado el boletin 7p4 ejercicios 3 y 4 provisional">
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej5c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej6c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej7c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej8c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej9c.java" afterDir="false" />
+    <list default="true" id="54cf6306-a2bb-4571-a853-89438ea32374" name="Changes" comment="boletin 7p4">
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/examenFyE/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/examenFyE/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/examenFyE/simpsons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/examenFyE/simpsonsConAsteriscos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boletines/Tema7/examenFyE/sinopsisMas30.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boletines/Tema7/boletin7p4/Ej4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/adrik/IdeaProjects/Programacion&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/adrik/IdeaProjects/Programacion/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/adrik/IdeaProjects/Programacion/Boletines/Tema7/examenFyE",
+    "onboarding.tips.debug.path": "C:/Users/adrik/IdeaProjects/Programacion/EjemplosTemario/Tema7/src/tema7/EjemploXML3.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adrik\IdeaProjects\Programacion\Boletines\Tema7\examenFyE" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Examenes" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\EjemplosTemario" />
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines" />
@@ -68,7 +72,7 @@
       <recent name="C:\Users\adrik\Desktop\Pogramación\PROGRAMAS\Programacion\Boletines\Tema7\src\Boletin7p1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tema7.boletin7p4.Ej3">
+  <component name="RunManager" selected="Application.Ejercicio2">
     <configuration name="BorrarPlato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.BorrarPlato" />
       <module name="Programacion" />
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema7.Boletin7p3.ejercicio3.Ej3" />
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema7.examenFyE.Ejercicio2" />
       <module name="Programacion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema7.Boletin7p3.ejercicio3.*" />
+          <option name="PATTERN" value="Tema7.examenFyE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Tema7.boletin7p4.Ej3" />
         <item itemvalue="Application.Quijote2" />
         <item itemvalue="Application.Ej2" />
         <item itemvalue="Application.BorrarPlato" />
-        <item itemvalue="Application.Ej3" />
       </list>
     </recent_temporary>
   </component>
